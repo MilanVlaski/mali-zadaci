@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WFA_Ispit.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="P1_Rad" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="P1_Pauza" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="P2_Rad" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="P2_Pauza" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="P3_Rad" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="P3_Pauza" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="kalorijskaMoc" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">4.7</Value>
+    </Setting>
+    <Setting Name="kolicina" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">220</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

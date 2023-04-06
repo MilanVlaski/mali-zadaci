@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFA_Ispit", "WFA_Ispit2\WFA_Ispit.csproj", "{78F40068-220E-40C7-B18C-64E90DD91AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F40068-220E-40C7-B18C-64E90DD91AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F40068-220E-40C7-B18C-64E90DD91AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F40068-220E-40C7-B18C-64E90DD91AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F40068-220E-40C7-B18C-64E90DD91AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4476F48C-0CFC-4A3C-9AC9-98B0CB204EB1}
+	EndGlobalSection
+EndGlobal
